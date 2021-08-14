@@ -18,7 +18,7 @@ For Plotting and metrics claculation it uses the following functions
 
 Additionally it contains the DataGenerator Class this is used to handle memory and multiprocessing.
 
-To run this upload the notebook to Google Colab
+To run this upload the notebook to Google Colab it has most of the modules preinstalled.
 
 If you want to run this locally install the following modules
 1. numpy
@@ -28,4 +28,4 @@ If you want to run this locally install the following modules
 5. sklearn
 6. tensorflow
 
-Store the dataset in the same directory as the notebook
+Store the dataset in the same directory as the notebook. Currently the loadDataSet function is defined for the datasets Indian Pines, Pavia University, Salinas, Kennedy Space Center and Botswana. If you want to try other datasets add the implementation into the loadDataSet function.
