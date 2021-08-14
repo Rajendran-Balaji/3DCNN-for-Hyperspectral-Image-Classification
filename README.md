@@ -1,4 +1,4 @@
-# 3DCNN-for-Hyperspectral-Image-Classification
+## 3DCNN-for-Hyperspectral-Image-Classification
 
 Project contains the following functions
 1. loadDataSet()
@@ -29,3 +29,8 @@ If you want to run this locally install the following modules
 6. tensorflow
 
 Store the dataset in the same directory as the notebook. Currently the loadDataSet function is defined for the datasets Indian Pines, Pavia University, Salinas, Kennedy Space Center and Botswana. If you want to try other datasets add the implementation into the loadDataSet function.
+
+# Architecture of the Convolutional Neural Network
+
+
+![alt text](https://github.com/Rajendran-Balaji/3DCNN-for-Hyperspectral-Image-Classification/blob/main/Architecture.png?raw=true)
