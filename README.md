@@ -16,4 +16,15 @@ For Plotting and metrics claculation it uses the following functions
 4. AA_andEachClassAccuracy()
 5. reports()
 
-Additionally it contains the DataGenerator Class this is used to handle memory and multiprocessing
+Additionally it contains the DataGenerator Class this is used to handle memory and multiprocessing.
+
+To run this upload the notebook to Google Colab
+If you want to run this locally install the following modules
+1. numpy
+2. scipy
+3. matplotlib
+4. spectral
+5. sklearn
+6. tensorflow
+
+Store the dataset in the same directory as the notebook
