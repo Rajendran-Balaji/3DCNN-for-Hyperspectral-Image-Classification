@@ -19,6 +19,7 @@ For Plotting and metrics claculation it uses the following functions
 Additionally it contains the DataGenerator Class this is used to handle memory and multiprocessing.
 
 To run this upload the notebook to Google Colab
+
 If you want to run this locally install the following modules
 1. numpy
 2. scipy
