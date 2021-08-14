@@ -16,4 +16,4 @@ For Plotting and metrics claculation it uses the following functions
 4. AA_andEachClassAccuracy()
 5. reports()
 
-Additionally it contains the DataGenerator Class this is used to handle memeory and multiprocessing
+Additionally it contains the DataGenerator Class this is used to handle memory and multiprocessing
